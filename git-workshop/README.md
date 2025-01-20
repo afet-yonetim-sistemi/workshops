@@ -12,9 +12,10 @@ Welcome to the Git Workshop repository! This repo contains a simple Java project
 ### 1. Create a Feature Branch
 
 - Clone the repository:
-  ```bash
+```bash
   git clone https://github.com/your-org/git-workshop.git
   cd git-workshop
+```
 
 ### 2. Pull and Merge Changes from Main
 
@@ -38,7 +39,15 @@ git merge main
 git cherry-pick <commit-hash>
 ```
 
-### 4. Set up a basic workflow that echoes "Hello World" on every push
+### 4. Merge Conflict Resolution
+
+- Modify Calculator to add missing operation
+- Try to push the changes (see that your branch is 3 commits behind)
+- Pull the latest changes
+- Fix the conflicts in github/IDE or command line
+- Push to your branch
+
+### 5. Set up a basic workflow that echoes "Hello World" on every push
 
 - Go to .github/workflows/ci.yml
 
