@@ -1,0 +1,10 @@
+many people
+some people
+what can i do sometimes
+another people
+<<<<<<< HEAD
+let me tell you something
+=======
+and more lines
+agit was here
+>>>>>>> e6dfcdee698261bcf6019b18a9c2e528efa170af
