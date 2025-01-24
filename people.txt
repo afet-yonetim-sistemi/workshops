@@ -1,4 +1,8 @@
 many people
 some people
 what can i do sometimes
+<<<<<<< HEAD
 agit was here
+=======
+another people
+>>>>>>> c8e4bf726522a704f09a681932c265ea73771bda
